@@ -14,14 +14,14 @@ This is a series of Jupyter notebook to learn Google Earth Engine with Python. A
 ### [Connecting GEE, Colab and Google Drive ](0_connect.ipynb)
 
 ### 1. Basic_GEE
-- [1.1 Google Earth Engine Intro](1.1_Intro.ipynb)
-- [1.2 Data structures in GEEl](1.2_DataStructures.ipynb)
-- [1.3 Image & ImageCollection](1.3_Images.ipynb)
-- [1.4 Feature & FeatureCollections](1.4_Features.ipynb)
-- [1.5 Conditional statements](1.5_Cond_Statements.ipynb)
-- [1.6 Map and filter](1.6_Map_filter.ipynb)
-- [1.7 Spatial Temporal Reducers](1.7_Reducers.ipynb)
-- [1.8 Iterations](1.7_Iterations.ipynb)
+- [1.1 Google Earth Engine Intro](1_1_Intro.ipynb)
+- [1.2 Data structures in GEEl](1_2_DataStructures.ipynb)
+- [1.3 Image & ImageCollection](1_3_Images.ipynb)
+- [1.4 Feature & FeatureCollections](1_4_Features.ipynb)
+- [1.5 Conditional statements](1_5_Cond_Statements.ipynb)
+- [1.6 Map and filter](1_6_Map_filter.ipynb)
+- [1.7 Spatial Temporal Reducers](1_7_Reducers.ipynb)
+- [1.8 Iterations](1_8_Iterations.ipynb)
 - [1.9 Export Resutls](1.9_ExportResults.ipynb)
 - [Under deveploment]()
 
