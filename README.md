@@ -6,7 +6,7 @@ Maintainer: [*`Cesar Aybar Camacho`*](https://csaybar.github.io)  < csaybar@gmai
 
 **Welcome!**
 
-This is a series of Jupyter notebook to learn Google Earth Engine with Python. All the content is released under the  GPLv3 license. If you want to contribute to this project, do not doubt to keep in touch with me.
+This is a series of Jupyter notebook to learn Google Earth Engine with Python. All the content is released under the  Apache 2.0 license. If you want to contribute to this project, do not doubt to keep in touch with me.
 
 ## Table of Contents
 
