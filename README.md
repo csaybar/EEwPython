@@ -1,72 +1,31 @@
-# Learn about Earth Engine Python API using Colab(eeCourse)
-A short course about google earth engine potentialities
+# Google Earth Engine with Python
 
-<img class="center"  height="500" src="https://earthengine.google.com/static/images/trendy_lights.jpg" >
+Maintainer: [*`Cesar Aybar Camacho`*](https://csaybar.github.io)  < csaybar@gmail.com >
 
+<img src = 'https://sitejerk.com/images/google-earth-logo-png-5.png' width  =300px>
 
-##  ¿What is colab?
+**Welcome!**
 
-Google **colab** is a free cloud service (jupyter as service) with GPU and TPU support.
+This is a series of Jupyter notebook to learn Google Earth Engine with Python. All the content is released under the  GPLv3 license. If you want to contribute to this project, do not doubt to keep in touch with me.
 
-<img class="center"  height="200" src="https://colab.research.google.com/img/colab_favicon_256px.png" >
+## Table of Contents
 
-## Examples (Comming soon):
+### [What is colab?](0_WhatIsColab.ipynb)
+### [Connecting GEE, Colab and Google Drive ](0_connect.ipynb)
 
-## Tutorials:
+### 1. Basic_GEE
+- [1.1 Google Earth Engine Intro](1.1_Intro.ipynb)
+- [1.2 Data structures in GEEl](1.2_DataStructures.ipynb)
+- [1.3 Image & ImageCollection](1.3_Images.ipynb)
+- [1.4 Feature & FeatureCollections](1.4_Features.ipynb)
+- [1.5 Conditional statements](1.5_Cond_Statements.ipynb)
+- [1.6 Map and filter](1.6_Map_filter.ipynb)
+- [1.7 Spatial Temporal Reducers](1.7_Reducers.ipynb)
+- [1.8 Iterations](1.7_Iterations.ipynb)
+- [1.9 Export Resutls](1.9_ExportResults.ipynb)
+- [Under deveploment]()
 
-### 1. Spatial–Temporal Variability of Snow Cover Using SAM (Coming Soon!)
-
-<table align="left"><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
-  </a>
-</td><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
-</td></table>
-
-### 2. Download NEX-GDDP dataset (CMIP5 climate simulations)
-
-<table align="left"><td>
-  <a target="_blank"  href="https://colab.research.google.com/drive/13mrBBmAZSJ9FCeW6i2N_79Ric-VSXgnT">
-    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
-  </a>
-</td><td>
-  <a target="_blank"  href="https://github.com/csaybar/eeCourse/blob/master/example_02.ipynb">
-    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
-</td></table>
-
-
-### 3. Mapping flooded areas using Sentinel 1 and Sentinel 2 (Coming Soon!)
-
-<table align="left"><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
-  </a>
-</td><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
-</td></table>
-
-
-### 4. Introducction to tensorflow and Earth Engine (Comming soon!)
-
-<table align="left"><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
-  </a>
-</td><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
-</td></table>
-
-### 5. Land Cover Estimation using Tensorflow and Earth Engine (Comming soon!)
-
-<table align="left"><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
-  </a>
-</td><td>
-  <a target="_blank"  href="https://pa1.narvii.com/6732/b43d60e14ada36642c09c9ecf194886702b7bbaf_hq.gif">
-    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
-</td></table>
+### 2. Applications
+- [2.1. Download NEX-GDDP dataset](x)
+- [2.2 Glacier Area prediction using a Vanilla Neural Network](x)
+- [2.3. High Altitude Wetlands distribution using Convolutional Neural Networks](x)
