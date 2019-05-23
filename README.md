@@ -31,6 +31,6 @@ This is a series of Jupyter notebook to learn Google Earth Engine with Python. A
 - [Under deveploment]()
 
 ### 2. Applications
-- [2.1. Download NEX-GDDP dataset](cmip5.ipynb)
+- [2.1. Climate Change - CMIP5 (plotly + GEE)](cmip5.ipynb)
 - [2.2 Glacier Area prediction using a Vanilla Neural Network](x)
 - [2.3. High Altitude Wetlands distribution using Convolutional Neural Networks](x)
