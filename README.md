@@ -32,4 +32,4 @@ The course **"EEwPython"** is a series of Jupyter notebook (colabs) to learn Goo
 ### 2. Applications
 - [1. Climate Change - CMIP5 (plotly + GEE)](cmip5.ipynb)
 - [2. Crop Area estimation in Camana Valley using a Deep Neural Network (tensorflow)](dnn_demo.ipynb)
-- [3. U-Net + EarthEngine (Comming soon)](x)
+- [3. U-Net + EarthEngine](cnn_demo.ipynb)
