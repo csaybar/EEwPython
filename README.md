@@ -8,7 +8,7 @@ Maintainer:
 - [*`Cesar Aybar Camacho`*](https://csaybar.github.io)  < csaybar@gmail.com >
 - [*`Roy Yali Samaniego`*]()  < ryali93@gmail.com >
 
-<img src = 'https://sitejerk.com/images/google-earth-logo-png-5.png' width  =300px>
+<img src = 'https://earthengine.google.com/static/images/earth-engine-logo.png' width  =300px>
 
 
 **Welcome!**
